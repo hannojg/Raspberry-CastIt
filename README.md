@@ -1,7 +1,7 @@
-#Raspberry-CastIt
+# Raspberry-CastIt
 Very simple and yet experimental set-up to use a Raspberry as an online content streamer.
 
-##The scenario & explanation
+## The scenario & explanation
 
 Share an URL to the Android App (e.g. a Youtube video) or any other of the [supported pages](https://github.com/rg3/youtube-dl/tree/master/youtube_dl/extractor "ALl available Youtube-dl extractor") and let the raspberry play the content for you on a larger screen, e.g. your TV. 
 This way I was able to stream to tv shows, series, movies or just custom content over the raspberry to my TV. This way, it has even more compatibility than Google's Chromecast. 
