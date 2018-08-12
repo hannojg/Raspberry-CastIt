@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Raspberry CastIt</string>
+    <string name="shareIntent">Share media to different app</string>
+</resources>
