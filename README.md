@@ -11,5 +11,8 @@ This way I was able to stream to tv shows, series, movies or just custom content
   * See [supported pages](https://github.com/rg3/youtube-dl/tree/master/youtube_dl/extractor "ALl available Youtube-dl extractor")
 * Very lightweight  
 
+### Process flow (so far)
+![process flow](https://github.com/hannojg/Raspberry-CastIt/blob/master/ProcessFlow.png)
+
 More to come, more to add. Understand this repository as an experimental snapshot, I will extend the repository as I am testing the experiment over time. 
 Inspiration started as I looked over: https://github.com/DevonLian/PYCASTER
